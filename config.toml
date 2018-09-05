@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://dc2018.satrdays.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "satRday"
 theme = ["hugo-satrday-theme", "hugo-agency-themes"]
 
 
