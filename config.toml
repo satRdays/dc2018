@@ -217,7 +217,7 @@ googleAnalytics = ""
     # Possibility to center items
     #center = true
     title = "Team"
-    subtitle = "The people putting it together"
+    subtitle = "Contact us if you have any questions."
     bg = false
     description = ""
     speakers = ""
@@ -241,8 +241,8 @@ googleAnalytics = ""
       # bio = """I do things,
       # and stuff"""
       social = [
-        ["fa-twitter", "https://twitter.com/plzbeemyfriend"]
-        # ["fa-github", "#"],
+        ["fa-twitter", "https://twitter.com/plzbeemyfriend"],
+        ["fa-envelope-o", "mailto:ortizulloabenjamin@gmail.com"]
         # ["fa-linkedin", "#"]
       ]
 
@@ -289,9 +289,9 @@ googleAnalytics = ""
 
   # Contact section
   [params.contact]
-    enable = true
+    enable = false
     title = "Contact us"
-    subtitle  = "Lorem ipsum dolor sit amet consectetur."
+    subtitle  = "Email Benjamin at ortizulloabenjamin@gmail.com with any questions."
     buttonText = "Send message"
     # netlify = true
 
@@ -320,7 +320,7 @@ googleAnalytics = ""
     #error = "Message could not be send. Please contact us at mail@example.com instead."
 
     [params.contact.captcha]
-      # sitekey = ""
+      sitekey = ""
 
     # 'warning' defines error messages for invalid inputs
     [params.contact.form.name]
