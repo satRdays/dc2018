@@ -129,10 +129,10 @@ googleAnalytics = ""
 
   # Register section
   [params.eventbrite]
-    enable = false
+    enable = true
     title = "Register"
     bg = true
-    eid = ""
+    eid = "49818366074"
       # Go to https://www.eventbrite.co.uk/support/articles/en_US/How_To/how-to-sell-eventbrite-tickets-registrations-on-your-website-using-embeddable-widgets?lg=en_GB
       # Follow instructions to discover your 'Website Integration' embeddable iframe
       # Take ONLY the numeric string between "eid=" and "&ref=etckt"
