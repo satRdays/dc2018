@@ -1,0 +1,25 @@
+{{ "<!-- callforpapers -->" | safeHTML }}
+<section id="callforpapers" {{ if .Site.Params.callforpapers.bg }}
+class="bg-light-gray"
+{{ end }}>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading">{{ with .Site.Params.callforpapers.title }}{{ . | markdownify }}{{ end }}</h2>
+      </div>
+    </div>
+    <div class="col-lg-12 text-center">
+        <h4 class="section-heading">
+            We are accepting paper submissions through <a href="https://sessionize.com{{ .Site.Params.callforpapers.CfSpage }}">sessionize</a>.
+        </h4>
+    </div>
+    <div>
+        <p>Papers will be accepted between {{ .Site.Params.callforpapers.dates }}.</p>
+        <p>
+          The focus goal of the talks and posters is to show others how you're using R. It doesn't really matter if the application is for industry, academia, or even creative coding. The overall goal is to build the R useR community and to inspire others.
+        </p>
+        <p>
+          The talks should be no longer than 20 minutes in duration and the posters will be presented during lunch.
+        </p>
+    </div>
+</section>
