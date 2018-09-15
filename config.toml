@@ -141,7 +141,7 @@ googleAnalytics = ""
   # Call for papers section
   [params.callforpapers]
     enable = true
-    title = "Call For Papers"
+    title = "Call For Presentations"
     bg = false
     CfSpage = "/satrday-washington-dc"
       # Go to Organizer > My Events > Dashboard and copy the "CfS Page" string into the `CfSpage` value
