@@ -145,7 +145,7 @@ googleAnalytics = ""
     bg = false
     CfSpage = "/satrday-washington-dc"
       # Go to Organizer > My Events > Dashboard and copy the "CfS Page" string into the `CfSpage` value
-    dates = "September 1st and October 31st 2018"
+    dates = "September 1st and November 5th 2018"
 
   # Talk [Portfolio] section
   [params.portfolio]
@@ -182,7 +182,7 @@ googleAnalytics = ""
     # Replace them with your own.
     [[params.about.events]]
       img = "halloween_new.png"
-      date = "October 31"
+      date = "November 5th"
       title = "Proposal Submission Deadline"
       description = "Last day to submit a talk or poster proposal."
 
