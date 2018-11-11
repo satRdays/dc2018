@@ -1,0 +1,23 @@
+modalID: 6
+title: "Tony McGovern"
+subtitle: "Hacker. Artist. Storyteller. Data lover."
+date: 1970-01-01
+startsAt: 00:00
+endsAt: 00:01
+img: roundicons.png
+preview: Tony_McGovern.jpeg
+client: Hacker. Artist. Storyteller. Data lover.
+clientLink: "#"
+category: Category 1
+description: "During the day, Tony uses machine learning models and data mining techniques to solve hard, analytical problems for his clients. When it's time to show the results of his analysis, he often turns to Power BI, Shiny, or D3.js to build expressive, interactive applications.
+<br><br>
+You can follow Tony on Twitter as [@tonmcg](https://twitter.com/tonmcg)."
+abstractTitle: "Spatial Data Analysis in Power BI: From Beautiful Thematic Maps to R-based Models"
+abstract: "This presentation is aimed at people who want to create beautiful thematic maps, perform impactful spatial data analysis, and explore common R-based models with Power BI. Much of the content will make use of Power BI's out-of-the-box spatial capabilities through Esri's ArcGIS Maps and the MapBox Visual for Power BI.
+<br><br>
+While I use data from the United States Census Bureau and the Socrata Open Data APIs, what you'll learn can also be reproduced using similar non-U.S. spatial data.
+<br><br>
+I'll also highlight some commonly used R-based models you can integrate with Power BI. From clustering algorithms to hotspot analysis, R in Power BI allows us to deliver better and more rigorous insight from our spatial data.
+<br><br>
+If you're accustomed to mapping data in R or Shiny and want to be able to do the same at scale and to a broader audience, this is the session for you."
+talk: true

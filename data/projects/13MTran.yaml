@@ -1,0 +1,17 @@
+modalID: 11
+title: "Minh Tran"
+subtitle: "Blueprint Interactive - Junior Analyst (contractor)"
+date: 1970-01-01
+startsAt: 00:00
+endsAt: 00:01
+img: roundicons.png
+preview: Minh_Tran.jpg
+client: Blueprint Interactive - Junior Analyst (contractor)
+clientLink: "#"
+category: Category 1
+description: "Minh is originally from Los Angeles and moved to DC this past June. A Sociology major, she discovered the joy of R her junior year at UCLA through a seminar on data science by the Sociology department, and realizing how versatile it was beyond just statistical applications. Her interests pertain to issues around the environment, labor, and public policy.
+<br><br>
+You can follow Minh on Twitter as [@eatdictionaries](https://twitter.com/eatdictionaries)."
+abstractTitle: "Time-Series Regressions - What Are They & Why Would I Use Them"
+abstract: "It not only sounds scary, it looks scary. Whether its actually knowing if your model predicts anything, or how much hassle you're in for converting those not-quite time-stamps to POSIXCT via lubridate, maybe, you'll probably need to know when and how to do them. This is a introductory talk by a novice R user who had to learn the hard way but saw her project (a financial audit) come out all the better for it."
+talk: true

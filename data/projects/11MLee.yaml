@@ -1,0 +1,17 @@
+modalID: 9
+title: "Michael Lee"
+subtitle: "Data Visualization Developer"
+date: 1970-01-01
+startsAt: 00:00
+endsAt: 00:01
+img: roundicons.png
+preview: Michael_Lee.png
+client: Data Visualization Developer
+clientLink: "#"
+category: Category 1
+description: "Michael is a former special education teacher with 5+ years of R development experience focused on the creation of products such as visualizations, animations, interactives, reports, and applications to disseminate survey research and other data knowledge.
+<br><br> 
+You can follow Michael on Twitter as [@mikeleeco](https://twitter.com/mikeleeco)."
+abstractTitle: "Animate All the Things: Methods for Animated Visualization in R"
+abstract: "An overview and walk-through of best practice for developing data gifs to tell stories by recreating several notable visualizations and animations using the R graphics ecosystem."
+talk: true

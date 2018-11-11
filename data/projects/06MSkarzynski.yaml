@@ -1,0 +1,22 @@
+modalID: 12
+title: "Martin Skarzynski"
+subtitle: "Co-Chair, Bioinformatics and Data Science Department, Foundation for the Advancement of Education in the Sciences (FAES)"
+date: 1970-01-01
+startsAt: 00:00
+endsAt: 00:01
+img: roundicons.png
+preview: Martin_Skarzynski.jpg
+client: Co-Chair, Bioinformatics and Data Science Department, Foundation for the Advancement of Education in the Sciences (FAES)
+clientLink: "#"
+category: Category 1
+description: "Co-Chair, Bioinformatics and Data Science Department, Foundation for the Advancement of Education in the Sciences (FAES)
+Martin Skarzynski, a Cancer Prevention Fellow since 2017, is passionate about Bioinformatics, Data Science, Epidemiology, and Statistical Computing. Martin uses the Python and R programming languages and command line tools to explore, analyze, visualize and present data and has a strong interest in reproducibility, scientific publishing workflows, and open data/science best practices.
+<br><br>
+Outside of the Cancer Prevention Fellowship Program, Martin is co-chair of the Bioinformatics and Data Science Department at the Foundation for the Advancement of Education in the Sciences (FAES), where he has been an instructor since 2015 and currently teaches Introduction to Python (BIOF309). Martin is also an instructor for Software and Data Carpentry, non-profit organizations that teach computational skills, and a Data Science content reviewer at Smartly Institute.
+<br><br>
+Martin holds an MPH in Epidemiologic and Biostatistical Methods for Public Health and Clinical Research and a certificate in Data Science from Johns Hopkins University, a PhD in Tumor Biology from Georgetown University, an MS in Biotechnology from Jagiellonian University in Poland, and a BA in Biology from St. Mary’s College of Maryland.
+<br><br>
+You can follow Martin on Twitter as [@marskar](https://twitter.com/marskar)."
+abstractTitle: How to write respectful and empathic code and documentation
+abstract: You can tell a lot about a person by the code and documentation they write (or don't write). In this talk, you'll hear about best practices and workflows for R packages, projects, and scripts that demonstrate respect and empathy for users. Along the way, you'll learn how your work can encourage contributors and promote the development of aspiring data scientists and budding software developers in the R community and beyond.
+talk: true

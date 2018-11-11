@@ -1,0 +1,17 @@
+modalID: 5
+title: "Helen Levy-Myers"
+subtitle: "Data Scientist, Athena's Workshop"
+date: 1970-01-01
+startsAt: 00:00
+endsAt: 00:01
+img: roundicons.png
+preview: Helen_Levy-Myers.JPG
+client: Data Scientist, Athena's Workshop
+clientLink: "#"
+category: Category 1
+description: "As a Data Scientist, Helen sees her role is to create compelling data visualizations and engaging stories. She focuses on dense visualizations with multiple avenues to enter and explore the data. [Her blog](https://www.athenasworkshop.com/blog/) has examples of her data analysis and visualizations. She works with large data sets from the EPA, CDC, US Department of Education, DC State Superintendent of Education, and the California Attorney General. She regularly posts her R code on [GitHub](https://github.com/hlevymyers) and [RPubs](https://tinyurl.com/ydehd5dx).
+<br><br>
+You can follow Helen on Twitter as [@hlevymyers](https://twitter.com/hlevymyers)."
+abstractTitle: "Influencing Factors on High School Graduation"
+abstract: "Using data from the US Department of Education, I examine a number of metrics that have a positive and negative correlation with graduation rates. I also develop a model to predict graduation rates and changes necessary to increase graduation rates."
+talk: true

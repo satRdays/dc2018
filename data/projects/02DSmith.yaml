@@ -1,0 +1,17 @@
+modalID: 2
+title: "David Smith"
+subtitle: "R Community Lead, Microsoft"
+date: 1970-01-01
+startsAt: 00:01
+endsAt: 00:02
+img: roundicons.png
+preview: Smith_David.jpg
+client: R Community Lead, Microsoft
+clientLink: "#"
+category: Category 2
+description: "David is the Cloud Developer Advocate at Microsoft.  After graduating with a degree in Statistics from the University of Adelaide, South Australia, David spent four years researching statistical methodology at Lancaster University (United Kingdom), where he also developed a number of packages for the S-PLUS statistical modeling environment. David continued his association with S-PLUS at Insightful (now TIBCO Spotfire) where for more than eight years he oversaw the product management of S-PLUS and other statistical and data mining products. David is the co-author (with Bill Venables) of the tutorial manual An Introduction to R, one of the originating developers of ESS: Emacs Speaks Statistics, and a member of the board of the R Consortium.
+<br><br>
+You can follow David on Twitter as [@revodavid](https://twitter.com/revodavid). "
+abstractTitle: ""
+abstract: ""
+talk: true

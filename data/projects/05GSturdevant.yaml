@@ -1,0 +1,17 @@
+modalID: 13
+title: "Gwynn Sturdevant"
+subtitle: "Data Scientist at Volanno"
+date: 1970-01-01
+startsAt: 00:00
+endsAt: 00:01
+img: roundicons.png
+preview: Gwynn_Sturdevant.jpeg
+client: Data Scientist at Volanno
+clientLink: "#"
+category: Category 1
+description: "Gwynn is interested in addressing methodological problems that arise from practical questions and in analysis of longitudinal data in clinical studies. Her PhD research focused on both. She demonstrated that a feasible design does not exist that tests for carryover effects after cessation of treatments when diagnosis is defined by a noisy measurement crossing a threshold. As this was not possible, she analyzed simulated data from trials to determine the same.
+<br><br>
+You can follow Gwynn on Twitter as [@nzgwynn](https://twitter.com/nzgwynn)."
+abstractTitle: ""
+abstract: ""
+talk: true

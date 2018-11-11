@@ -1,0 +1,17 @@
+modalID: 8
+title: "Tyler Morgan-Wall"
+subtitle: "Researcher"
+date: 1970-01-01
+startsAt: 00:00
+endsAt: 00:01
+img: roundicons.png
+preview: Tyler_Morgan-Wall.png
+client: Researcher
+clientLink: "#"
+category: Category 1
+description: "Dr. Morgan-Wall lives in DC and is a research staff member at the Institute for Defense Analyses in Alexandria, Virginia. He has a PhD in Physics from Johns Hopkins University and is the main developer of the rayshader and skpr packages.
+<br><br>
+You can follow Tyler on Twitter as [@tylermorganwall](https://twitter.com/tylermorganwall)."
+abstractTitle: "3D mapping, plotting, and printing with rayshader"
+abstract: "Is there ever a place for the third dimension in visualizing data? Is the 3D pie chart truly bad, or just misunderstood? In this talk, I will show you how you can create beautiful 3D maps and visualizations with the rayshader package. In addition, I will talk about the value of 3D plotting, how interactions with the R community helped drive the development of rayshader, and how writing/blogging about your projects can vastly improve your code. And, of course—lots of beautiful 3D maps and figures."
+talk: true

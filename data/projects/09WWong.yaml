@@ -1,0 +1,20 @@
+modalID: 7
+title: "Wendy Wong"
+subtitle: "Chief, Division of Bioinformatics, Inova Translational Medicine Institute"
+date: 1970-01-01
+startsAt: 00:00
+endsAt: 00:01
+img: roundicons.png
+preview: Wendy_Wong.jpeg
+client: Chief, Division of Bioinformatics, Inova Translational Medicine Institute
+clientLink: "#"
+category: Category 1
+description: "Wendy has over 10 years of experience in international interdisciplinary research. She has in-depth knowledge in statistics, computer science and biology. She was previously a computational biologist at the Wellcome Trust Sanger Institute where she worked on genetic interaction map for Caenorhabditis elegans. As a statistician, she also worked at Winton Capital Management in London on Transaction Cost Analysis. Before joining Inova Translational Medicine Institute, she was a bioinformatics scientist at Illumina Ltd. in Cambridge, UK, working on algorithms on next-generation sequencing data. Wendy has a Ph.D. degree in Biometry (Biological Statistics) from Cornell University, where she developed statistical models to model the processes of molecular evolution using sequence data. She holds M.S. degrees in Biometry and Computer Science from Cornell University. She also has a B.S. degree in Genetics, Bacteriology, Mathematics, Computer Sciences and Statistics from University of Wisconsin - Madison."
+abstractTitle: "How to run rstudio servers anywhere with containers - HPC, Cloud, and locally"
+abstract: "R is the the main programming language used by the bioinformatics team at the Inova Translational Medicine Institute. Rstudio server as an IDE has helped tremendously. However, there are currently several limitations:
+<br><br>
+- the rstudio server needs to be initiated by root<br>
+- each machine can only have one server running<br>
+- the user cannot change the version of R it points to<br><br>
+Container solutions like docker and singularity solve all three of these issues. In this session, I will show how we run rstudio servers and ensure reproducible research using both docker and singularity on a shared server. I will also show how to make use of the free resource provided by Google Cloud Shell to have your own rstudio server for quick prototyping. Finally, I will present the issues that we are still working out for discussions."
+talk: true
