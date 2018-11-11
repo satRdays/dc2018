@@ -162,7 +162,7 @@ googleAnalytics = ""
       client = "Client"
       date = "Date"
       category = "Category"
-      buttonText = "Close project"
+      buttonText = "Close"
 
   # Schedule section
   [params.schedule]
