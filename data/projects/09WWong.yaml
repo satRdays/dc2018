@@ -8,7 +8,7 @@ img: roundicons.png
 preview: Wendy_Wong.jpeg
 client: Chief, Division of Bioinformatics, Inova Translational Medicine Institute
 clientLink: "#"
-category: Category 1
+category: Speaker
 description: "Wendy has over 10 years of experience in international interdisciplinary research. She has in-depth knowledge in statistics, computer science and biology. She was previously a computational biologist at the Wellcome Trust Sanger Institute where she worked on genetic interaction map for Caenorhabditis elegans. As a statistician, she also worked at Winton Capital Management in London on Transaction Cost Analysis. Before joining Inova Translational Medicine Institute, she was a bioinformatics scientist at Illumina Ltd. in Cambridge, UK, working on algorithms on next-generation sequencing data. Wendy has a Ph.D. degree in Biometry (Biological Statistics) from Cornell University, where she developed statistical models to model the processes of molecular evolution using sequence data. She holds M.S. degrees in Biometry and Computer Science from Cornell University. She also has a B.S. degree in Genetics, Bacteriology, Mathematics, Computer Sciences and Statistics from University of Wisconsin - Madison."
 abstractTitle: "How to run rstudio servers anywhere with containers - HPC, Cloud, and locally"
 abstract: "R is the the main programming language used by the bioinformatics team at the Inova Translational Medicine Institute. Rstudio server as an IDE has helped tremendously. However, there are currently several limitations:
