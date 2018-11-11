@@ -1,0 +1,19 @@
+modalID: 10
+title: "Matthew Hendrickson"
+subtitle: "Principal Data Analyst at HelioCampus"
+date: 1970-01-01
+startsAt: 00:00
+endsAt: 00:01
+img: roundicons.png
+preview: mHendrickson.jpg
+client: Principal Data Analyst at HelioCampus
+clientLink: "#"
+category: Category 1
+description: "Matthew is passionate about data, analytics, and research. He has over a decade of experience constructing research projects, analyzing data, and developing policies & strategies. He has developed and deployed analytics solutions for higher education clients to increase marketing efficiency, student recruitment, and student retention. He developed and taught Data Mining to Masters students. Finally, he has provided research and analytics consulting to doctoral students and private businesses. You can follow Michael on Twitter as [@mjhendrickson](https://twitter.com/mjhendrickson)."
+abstractTitle: "Learning R by Doing"
+abstract: "This talk is intended for beginners to R.<br><br>
+As a new learner of R, it can be hard to find the right resources. Not because there aren’t any, but because there are too many quality sources! There are also numerous ways to solve any given problem, making it even more difficult.<br><br>
+I found one of the hardest things about getting started with R was simply knowing how to find quality help and resources. Something as simple as learning the lingo to Google was infuriating. Then the overly technical pages and hundreds of resources were overwhelming and daunting. <br><br>
+From a pure beginners’ standpoint, I was confused by customized RStudio setups. I didn’t understand packages. Once I did, I had no idea which package was “the best.” I was utterly confused.<br><br>
+In this talk, I will help sort through the mess and provide resources that helped me get started. The R community is the most supportive learning community I’ve encountered. Welcome! I learned R by doing. I found an interesting dataset and dove in, teaching myself what was needed along the way. This talk will share pitfalls I encountered and resources that helped get my learning back on track."
+talk: true
