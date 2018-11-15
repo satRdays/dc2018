@@ -12,6 +12,6 @@ category: Speaker
 description: "Charlie is a Data Scientist at Storyblocks, an online subscription service for stock media. He uses R and Shiny to analyze A/B tests and search algorithm performance. An avid music fan, he also posts analyses and Shiny apps combining data science and music on his blog at RCharlie.com.
 <br><br>
 You can follow Charlie on Twitter as [@_RCharlie](https://twitter.com/_RCharlie)."
-abstractTitle: ""
-abstract: ""
+abstractTitle: "Analyzing Music with spotifyr"
+abstract: "spotifyr is an R package for pulling data from Spotify's Web API. We'll go over a few projects that have used it and walk through how to get started on your own music analysis."
 talk: true
