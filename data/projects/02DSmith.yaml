@@ -12,6 +12,6 @@ category: Speaker
 description: "David is the Cloud Developer Advocate at Microsoft.  After graduating with a degree in Statistics from the University of Adelaide, South Australia, David spent four years researching statistical methodology at Lancaster University (United Kingdom), where he also developed a number of packages for the S-PLUS statistical modeling environment. David continued his association with S-PLUS at Insightful (now TIBCO Spotfire) where for more than eight years he oversaw the product management of S-PLUS and other statistical and data mining products. David is the co-author (with Bill Venables) of the tutorial manual An Introduction to R, one of the originating developers of ESS: Emacs Speaks Statistics, and a member of the board of the R Consortium.
 <br><br>
 You can follow David on Twitter as [@revodavid](https://twitter.com/revodavid). "
-abstractTitle: ""
-abstract: ""
+abstractTitle: "Ten Years of Revolutions"
+abstract: "December 7 marks 10 years of continuous publication at the Revolutions blog (blog.revolutionanalytics.com). In this talk, I’ll reflect on why the blog was first created, review some of the milestones it marked over that time, and share some statistics from the blog’s history. I’ll also review the many technological revolutions that have occurred over the past 10 years and their impact on the R community."
 talk: true
