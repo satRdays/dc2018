@@ -9,9 +9,23 @@ preview: Gwynn_Sturdevant.jpeg
 client: Data Scientist at Volanno
 clientLink: "#"
 category: Speaker
-description: "Gwynn is interested in addressing methodological problems that arise from practical questions and in analysis of longitudinal data in clinical studies. Her PhD research focused on both. She demonstrated that a feasible design does not exist that tests for carryover effects after cessation of treatments when diagnosis is defined by a noisy measurement crossing a threshold. As this was not possible, she analyzed simulated data from trials to determine the same.
+description: "Gwynn Sturdevant uses data to improve transportation. At Volanno, she improves estimates
+of flight and train arrival times. Using sentiment analysis, she analyzes twitter and facebook
+posts to facilitate car purchases. Prior to this, gwynn completed a post-doctoral fellow with Ken
+Kleinman (University of Massachusetts Amherst and Harvard University) where she developed
+an extensive Shiny application to assist in balancing trials. Gwynn has a PhD in Statistics from
+University of Auckland, the birthplace of R, where she studied under Thomas Lumley and Ross
+Ihaka. For her PhD, she focused on finding long-term effects, after cessation of treatments,
+when noisy measurements cross a threshold (blood pressure, high cholesterol, diabetes). Prior
+to her PhD, Gwynn taught high school math and Spanish. She has a Masters in Mathematics
+from Northern Arizona University, a BA from St Mary’s College of Maryland, and Diploma in
+Teaching (Secondary) from the University of Auckland.
 <br><br>
 You can follow Gwynn on Twitter as [@nzgwynn](https://twitter.com/nzgwynn)."
-abstractTitle: ""
-abstract: ""
+abstractTitle: "How to build a racist AI without trying"
+abstract: "In this talk, gwynn will use sentiment analysis and build a model that exposes the ethnic biases
+in data sets commonly used to train algorithms. Correcting this will involve using training data
+from ConceptNet, an open source semantic network from MIT, as well as the reticulate
+package, to incorporate Python datasets into an R environment. A theme of this talk is the
+ethical responsibility data scientists have when developing algorithms to reduce bias."
 talk: true
