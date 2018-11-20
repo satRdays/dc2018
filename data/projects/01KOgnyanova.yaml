@@ -12,6 +12,16 @@ category: Speaker
 description: "An Assistant Professor at the School of Communication and Information at Rutgers University. Her research areas include network theory and methodology, computational social science, social use of technology, civic engagement and political behavior, social media and mass communication. She is experienced in data science and information visualization.
 <br><br>
 You can follow Katherine on Twitter as [@Ognyanova](https://twitter.com/ognyanova)."
-abstractTitle: ""
-abstract: ""
+abstractTitle: "Network analysis and visualization in R"
+abstract: "This talk will discuss the use of network analysis and visualization
+tools in R to gain social and research insights. Network science is a
+rapidly growing area that allows us to understand the dynamics of
+interconnected systems: social, digital, physical, biological, economic,
+political, and others. Contemporary network research examines
+increasingly large and complex digital trace datasets. Seeking new and
+effective ways to examine and present such information has become a
+priority in many areas of science, journalism, and the industry. In all
+of those spaces, R is the platform of choice for statistical network
+models. Examining and visualizing networks in R provides a powerful way
+to deliver insights to experts, policy-makers, and lay audiences."
 talk: true
