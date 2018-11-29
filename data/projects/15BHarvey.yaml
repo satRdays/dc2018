@@ -10,6 +10,15 @@ client: Lead Data Scientist, United States Department of Defense
 clientLink: "#"
 category: Speaker
 description: "Dr. Harvey holds a Cryptologic Computer Science Certificate from the University of Maryland Baltimore County, a B.S. in Pre-Medicine/Computer Science from Mississippi Valley State University, a Masters in Computer Science from BSU, and a D.Sc. from BSU’s Department of Computer Science. Dr. Harvey’s accomplishments include research at Harvard-MIT Division of Health Sciences and Technology in the Bioinformatics and Integrative Genomics program in 2008. Dr. Harvey completed a Bioinformatics Post-Baccalaureate Research-Fellowship in 2009 within i2b2, National Center for Biomedical Computing, with an academic appointment at Harvard Medical School. Dr. Harvey also conducted research in 2010 at the National Institute of Health, Clinical Center within the Department of Clinical Research Informatics. Dr. Harvey currently holds a position with the Department of Defense as a data scientist where he is leading the developing large scale distributed analytics. Dr. Harvey also holds a Part-time Faculty position with the School of Engineering and Applied Science within the Department of Computer Science and the Department of Engineering Management & Systems Engineering's joint Data Analytics Graduate Program."
-abstractTitle: ""
-abstract: ""
+abstractTitle: "From DoD-IC Signals to Biological Signals: Cloud Scale Genomic Signal Processing for Robust Microarray Data Analysis"
+abstract: "With the increase in the Volume, Velocity, Variety in microarray large-scale cancer genomic (LSCG) analysis there is a need to determine a “Tipping Point” when a decrease in microarray gene quality (MGQ) adversely affects accuracy & performance.
+
+This research implements a Cloud-Scale Distributed Processing (CSDP) environment for novel separable parallel one dimensional wavelet transformation in R.  We also establish a microarray wavelet denoising method which encompasses:
+<ul>
+  <li>Providing Distribution, Parallelization, Scalability in Genomic Signal Processing</li>
+  <li>Wavelet transformation and thresholding</li>
+  <li>A means to gauge the robustness</li>
+  <li>Proficient classification and parameterization</li>
+</ul>
+Ultimately, utilization of wavelet-based thresholding for microarray denoising and establishing a “Tipping Point” to determine optimal microarray image quality, will put future scientists on a path to lower classification error and increase performance."
 talk: true
