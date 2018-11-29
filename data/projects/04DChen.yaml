@@ -13,6 +13,13 @@ description: "Graduate Student at Virginia Tech (VT) in Genetics, Bioinformatics
 Works at the Social and Decision Analytics Laboratory at the Biocomplexity Institute at Virginia Tech.
 <br><br>
 You can follow Daniel on Twitter as [@chendaniely](https://twitter.com/chendaniely)."
-abstractTitle: ""
-abstract: ""
+abstractTitle: "Functions: using, writing, and non-standard!!"
+abstract: "Functions are a key component in making your code readable, modular, and sharable.
+Let's write functions in R, use them, and apply them to data.
+The tidyverse purrr library provides a way to map functions in a pipeline.
+
+Life moves on as expected until you plan to incorporate your own functions while using tidyverse functions.
+All of a sudden you can no longer pass in strings from your function to the tidyverse functions in the function body because of non-standard evaluation (NSE).
+Let's demystify NSE, so you can get back to coding!!
+"
 talk: true
