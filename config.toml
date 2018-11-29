@@ -194,9 +194,9 @@ googleAnalytics = ""
 
     [[params.about.events]]
       img = "turkey_new.png"
-      date = "November 30"
+      date = "December 8th"
       title = "Ticket Sales End"
-      description = "We want to get a headcount of how many people will attend at least one week in advance."
+      description = "Tickets sold the day of the event."
 
       [[params.about.events]]
         img = "satrday-logo_new.png"
